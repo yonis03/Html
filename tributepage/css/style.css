@@ -1,6 +1,8 @@
 body {
   color: red;
+  /*it opens the ccs and puts the color red.*/
   text-align: center;
+  /*it puts thr text in the middle.*/
 }
 
 h1 {
@@ -9,7 +11,11 @@ h1 {
 
 
 body {
-  background: url(../images/pop.jpg);
+  background: url(../images/pop.jpg); 
+  /*/its opens the css and puts the background image.
+
 }
 </style>
 </head>
+
+ /it closes the css*/
